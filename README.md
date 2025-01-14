@@ -17,11 +17,11 @@ A missão do DiversificaDev é criar oportunidades para grupos historicamente ma
 - **Descrição:** Introdução à programação com Python, abordando conceitos fundamentais como variáveis, estruturas de controle, funções, classes, e manipulação de dados.  
 - **Status:** Em andamento.  
 - **Material:**  
-  - [Aula 01 - Introdução ao Python](#)  
-  - [Aula 02 - Variáveis e Estruturas de Dados](#)  
-  - [Aula 03 - Estruturas de Repetição e Condicionais](#)
+  - [Aula 01 - Introdução ao Python](https://github.com/sophia-helena-paula/aulas_transdevs/blob/main/python_basico/aula_01.ipynb)  
+  - [Aula 02 - Variáveis e Estruturas de Dados](https://github.com/sophia-helena-paula/aulas_transdevs/blob/main/python_basico/aula_02.ipynb)  
+  - [Aula 03 - Estruturas de Repetição e Condicionais](https://github.com/sophia-helena-paula/aulas_transdevs/blob/main/python_basico/aula_03.ipynb)
   - [Aula 04 - Revisão](#)  
-  - [Aula 05 - Funções e Classes](#)  
+  - [Aula 05 - Funções e Classes](https://github.com/sophia-helena-paula/aulas_transdevs/blob/main/python_basico/aula_05.ipynb)  
 
 ---
 

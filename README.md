@@ -1,5 +1,8 @@
-# ![Logo DiversificaDev](https://diversifica.dev/wp-content/themes/diversifica/images/logo-difersificadev-light.png)  
-# **Repositório de Aulas - TransDevs**  
+<p align="center">
+  <img src="https://diversifica.dev/wp-content/themes/diversifica/images/logo-difersificadev-light.png" alt="Logo DiversificaDev" width="300px">
+</p>
+
+# **Repositório de Aulas de Python - TransDevs**  
 
 ## **Sobre o Projeto**  
 O programa **TransDevs**, criado pelo [DiversificaDev](https://diversifica.dev/), é uma iniciativa para **capacitar pessoas trans** no mercado de tecnologia no Brasil. Este repositório contém materiais e exercícios das aulas ministradas no programa, que abrangem diferentes áreas da tecnologia, começando com **Python Básico**.
@@ -8,7 +11,7 @@ A missão do DiversificaDev é criar oportunidades para grupos historicamente ma
 
 ---
 
-## **Cursos Atuais**
+## **Cursos de Python Atuais**
 
 ### 🐍 **Curso de Python Básico**  
 - **Descrição:** Introdução à programação com Python, abordando conceitos fundamentais como variáveis, estruturas de controle, funções, classes, e manipulação de dados.  
